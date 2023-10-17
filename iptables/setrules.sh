@@ -1,5 +1,8 @@
 #!/bin/bash
-
+#
+# Please refer to 
+# https://wiki.gentoo.org/wiki/Security_Handbook/Firewalls_and_Network_Security
+# for a complete overview on the possible rules.
 
 INTERFACE=wlo1
 
